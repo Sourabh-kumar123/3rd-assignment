@@ -1,0 +1,66 @@
+ANSWER 1:-
+Functions reduce the need for duplicate code. This makes programs shorter, easier to read, and easier to update.The use of functions makes a program more readable
+
+ANSWER 2:-
+The function run when its call.
+
+ANSWER3 :-
+
+def is a keyword in a python used for creating a function.
+after that we write function name.and at last we call them by writing function name.
+for ex-
+def history():
+  print("hi")
+history()
+
+ANSWER 4:-
+a block of code or set of instruction which perform a specific task is known as function.
+where as a function call is the action of executing that function in a program. The function call transfers control to the function's code.
+
+ANSWEER 5:-
+Variables defined in the global scope are known as global variables .there is typically only one global scope in a Python program. 
+The global scope represents the outermost level of the program and is accessible throughout the entire program.
+Local Scopes: Local scopes are created whenever a function is called. Each function call creates its own local scope. 
+The local scope is where variables defined within the function exist and can be accessed. These variables are known as
+local variables and are only accessible within the function's scope. 
+
+ANSWER 6:-
+Once the function call returns, the local variables within the function's scope are no longer accessible. 
+Any attempt to access those variables outside the function will result in an error.
+
+ANSWER 7:-
+ It can be followed by an expression that computes the desired value or by a variable that holds the value.
+
+ANSSWER 8:-
+if a function does not have return statement then we will use print keyboard to
+ call the values of the function that is stored inside a variable.
+
+ANSWER 9:-
+if we want to make a function variable refer to the global variable then we will use global keyboard inside a funtion with a variable holding some vaues.
+
+ANSWER 10:-
+The None keyword is used to define a null value, or no value at all .None is a data type of its own (NoneType) and only None can be None.
+
+ANSWER 11:-	
+Python, the import statement is used to import modules or packages, allow you to use their functionality in your program.
+
+ANSWER 12:-
+we will call it like this:-
+import spam
+a=spam.bacon()
+print(a)
+
+ANSWER 13:-
+To prevent a Python program from crashing when encountering an error, we can implement exception handling techniques using try-except blocks. 
+By using try-except,we can catch and handle specific types of errors that may occur during program execution.
+
+ANSWEER 14:-
+in try block we write all normal code which excute properly and in except block we generally used to write
+ those code which may cause error while excuting the program.
+The try-except construct in Python is used for error handling. It allows you to handle potential errors or exceptions
+ that may occur during the execution of a specific block of code. 
+The purpose of the try clause is to enclose the code that might raise an exception.
+
+
+
+
